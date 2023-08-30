@@ -1,0 +1,2 @@
+Account Creation ac = new Account Creation(); creating an instance for the above class. ac. CreateAccount('Osmania University'); 
+calling a method system. debug(ac); 
